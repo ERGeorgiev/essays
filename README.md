@@ -1,2 +1,2 @@
-# essays
-A collection of essays that I have passionately written.
+# Essays
+A collection of essays that I have written.
